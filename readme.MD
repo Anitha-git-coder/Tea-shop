@@ -8,3 +8,7 @@
 * ginger
 * water
 * T powder
+
+# Egg Dosa
+* Dosa Batter
+
